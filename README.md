@@ -3,4 +3,4 @@ Web scraping is the process of extracting data from websites. BeautifulSoup is a
 from HTML and XML documents. This project report outlines the implementation of a web scraping project using BeautifulSoup in Python. 
 The project involves scraping data from a target website, processing the scraped data, and presenting it in a structured format.
 
-![Machine Learning Model]()]
+![Machine Learning Model](https://github.com/GayanMeerigama/Web-Scraping-using-BeautifulSoup-in-Python/blob/main/PythonWebScraper.png)]
